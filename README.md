@@ -1,11 +1,11 @@
-# Tarea 0: [T0] Star Advanced :school_satchel:
+# Tarea 0: Star Advanced :school_satchel:
 
 Estudiante: Rodolfo Javier Cruz Olivares
 
 ## Consideraciones generales :octocat:
 
 **Lo que hace mi programa:**
-Cumple todos los requisitos del enunciado para tableros cuadrados y rectangulares, incluyendo el bonus.
+Se debe crear carpeta "partidas" en el mismo directorio en donde se clonen los archivos
 
 ### Cosas implementadas y no implementadas :white_check_mark: :x:
 
