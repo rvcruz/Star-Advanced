@@ -4,7 +4,6 @@ Estudiante: Rodolfo Javier Cruz Olivares
 
 ## Consideraciones generales :octocat:
 
-**Lo que hace mi programa:**
 Se debe crear carpeta "partidas" en el mismo directorio en donde se clonen los archivos
 
 ### Cosas implementadas y no implementadas :white_check_mark: :x:
