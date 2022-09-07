@@ -146,5 +146,6 @@ class StarAdvanced:
             print('Bienvenido a Star Advanced\n')
             self.llave = self.menu_de_inicio()  #(4) Envia a menu de inicio
 
+
 #(1) Se inicia la clase para comenzar el juego
 star_advanced = StarAdvanced(True)
